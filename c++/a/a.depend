@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1468654930 source:/home/zichaoyang/code/c++/a/main.cpp
+	<iostream>
+
+1468688454 source:/home/zichaoyang/code/c++/a/b.cpp
+	<iostream>
+
+1468654414 source:/home/zichaoyang/code/c++/a/src/first.cpp
+	"first.h"
+
+1468654414 /home/zichaoyang/code/c++/a/include/first.h
+
